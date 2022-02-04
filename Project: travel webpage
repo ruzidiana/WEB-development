@@ -12,10 +12,10 @@
             color: rgb(176, 14, 22);
         }
         .travel {
-        background-color: green;
+        background-color: rgb(247, 216, 15);
         }
         .tourism {
-        background-color: yellow;
+        background-color: rgb(240, 155, 9);
         }
         
         #canada {
@@ -35,5 +35,24 @@
         <p> Its ten provinces and three territories extend <em>from the Atlantic to the Pacific and northward into the Arctic Ocean</em>, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Its southern and western border with the United States, stretching 8,891 kilometres (5,525 mi), is <strong>the world's longest bi-national land border</strong>.  </p>
         
         <p><em>Canada's capital is <strong>Ottawa</strong></em>, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.</p>
+         <img src = "https://upload.wikimedia.org/wikipedia/commons/1/1c/Canada_provinces_english.png" alt = "Canada" width = "300">
+        <h4>3 Top-Rated Tourist Attractions in Canada</h4>
+          <ul>
+        <li>Niagara Falls</li>
+        <li>Banff National Park & the Rocky Mountains
+
+</li>
+        <li>Toronto's CN Tower</li>
+    </ul>
+    
+    <h5>Top 5 Warmest Places in Canada To Visit This Winter</h5>
+    
+    <ol>
+        <li>Victoria, British Columbia</li>
+        <li>Halifax, Nova Scotia</li>
+        <li>Kelowna, British Columbia</li>
+        <li>St. Catharines, Ontario</li>
+        <li>Vancouver, British Columbia</li>
+    </ol>
     </body>
 </html>
