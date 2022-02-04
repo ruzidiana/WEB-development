@@ -132,3 +132,11 @@ Kangaroos are the only large animals to use hopping as a means of locomotion. Th
 
     </body>
 </html>
+
+
+Has three internal links in the table of contents that correctly jump to the specified recipe below.
+Has a list for each recipe.
+Has a table with at least 2 rows for each recipe.
+Has steps described in paragraphs and/or lists.
+Uses at least 2 CSS element selectors.
+Uses at least 1 CSS id or class selector.
