@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>All about rabbits!!</title>
+    </head>
+    <body>
+
+    <h1>“THE ROSE FAMILY”</h1>
+    
+    <h2>ROBERT FROST</h2>
+    
+    <p>The rose is a rose,<br>
+    And was always a rose.<br>
+    But the theory now goes<br>
+    That the apple’s a rose,<br>
+    And the pear is, and so’s<br>
+    The plum, I suppose.<br>
+    The dear only knows<br>
+    What will next prove a rose.<br>
+    You, of course, are a rose –<br>
+    But were always a rose.<br> </p>
+    </body> 
+    
+    </html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title><strong>Challenge: You can learn text tags</strong></title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        <em>Nobody’s born smart.</em> We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. <em>Nobody’s good at anything at first.</em><br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+        Frustrating. Confusing. Trying. Struggling.<br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each wrong answer making your brain a little bit stronger.<br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+        Whoever you are, wherever you are.<br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+        <strong>You can learn anything.</strong>
+        </p>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Challenge: Wishlist"</title>
+    </head>
+    <body>
+
+    <h1>My wishlist</h1>
+    
+    <h2>Things I wanna to do</h2>
+    
+    <ul>
+        <li>picnic</li>
+        <li>eating spagetti</li>
+        <li>walking near river</li>
+    </ul>
+    
+    <h3>Gifts I wanna to be given</h3>
+    
+    <ol>
+        <li>Michael Kross</li>
+        <li>Jordan</li>
+        <li>Burberry bag</li>
+    </ol>
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Spin-off of "Challenge: A picture-perfect trip"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p>
+           <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/planet.png" alt="Planet" width="150"> 
+    
+        <p>And animals like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/piceratops-ultimate.png" alt="piceratops-ultimate" width="170"> 
+        <p>And eat food like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png" alt="aqualine-seed" width="170"> 
+    </body>
+</html>
