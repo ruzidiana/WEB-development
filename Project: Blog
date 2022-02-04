@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            p {
+            background-color: yellow;
+            font-family: fantasy;
+            font-size: 13px;
+            font-style: italic;
+            font-weight: bold;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        </style>
+    </head>
+    <body>
+    
+        
+        <h1>Diana's blog</h1>
+
+<h4>Links for posts</h4>
+        
+        <ul>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">1st post</a></li>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">2nd post</a></li>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">3rd post</a></li>
+        </ul>
+
+
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First post!</li>
+            <li>Second post!</li>
+        </ul>
+        
+        <h2>First post</h2>
+        <h4>20.01.2022</h4>
+        
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bachalpsee_reflection.jpg/250px-Bachalpsee_reflection.jpg" alt="Rabbit with lop ears in barn" width="203"> 
+    
+        
+        <p>I was lucky enough to live close to nature when I was young.
+What did I learn?
+I learned to be curious, to discover the world of animals, insects, flowers, plants and trees.
+I also learned to be alone, enjoy myself and feel at home even far from my parents.
+The best part?
+I kept that curiosity today and I still love to spend time in nature every week.
+</p>
+
+    <ul>
+        <li>If we surrendered to earth’s intelligence we could rise up rooted, like trees. Rainer Maria Rilke</li>
+        <li>It was for the best, so Nature had no choice but to do it. Marcus Aurelius</li>
+        <li>Nature, time and patience are the three great physicians. Chinese proverb</li>
+    </ul>
+
+
+        
+        
+        <h2>Second post</h2>
+        <h4>07.02.2022</h4>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/leaf-green.png" alt="Rabbit with lop ears in barn" width="100"> 
+    
+        
+       
+        <p>
+It’s crucial for my physical and mental health.
+In sum,nature, hiking and trail running are part of the reason I know myself a lot more today.I couldn’t be more grateful.</p>
+    <ol>
+        <li>Choose only one master – nature. Rembrandt</li>
+        <li>Leave the road, take the trails. Pythagoras
+        </li>
+    </ol>
+        
+    </body>
+</html>
