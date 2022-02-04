@@ -1,9 +1,137 @@
-Does your project meet these goals?
-Contains at least three recipes.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project:Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        table{
+            color:red;
+            background-color: yellow;
+            text-align:center;
+        }
+        
+        h1{
+            color:yellow;
+            background-color: grey;
+        }
+        
+        p{
+            color:blue;
+            background-color: silver;
+        }
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Diana's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <li><a href="#recipe2">Recipe #2</a></li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Name: apple cake</li>
+            <li>Time: 20:00</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+                <tr>
+                    <td> flour </td>
+                    <td> 500g </td>
+                </tr>
+                
+                <tr>
+                    <td> egg </td>
+                    <td> 3 </td>
+                </tr>
+                
+                <tr>
+                    <td> milk </td>
+                    <td> 100ml </td>
+                </tr>
+                
+                <tr>
+                    <td> butter </td>
+                    <td> 50g </td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> break an egg.<br>
+        <strong>Step 2:</strong> add the flour to the container with the egg.<br>
+        <strong>Step 3:</strong> add warm milk<br>
+        <strong>Step 4:</strong> Mix it all together<br>
+</p>
+        
+        
+        
+        <h3 id="recipe2">Recipe #2</h3>
+        
+        <ul>
+            <li>Name: soup</li>
+            <li>Time: 40:00</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+                <tr>
+                    <td> meat </td>
+                    <td> 500g </td>
+                </tr>
+                
+                <tr>
+                    <td> onion </td>
+                    <td> 200g </td>
+                </tr>
+                
+                <tr>
+                    <td> potato </td>
+                    <td> 300g </td>
+                </tr>
+                
+                <tr>
+                    <td> carrot </td>
+                    <td> 250g </td>
+                </tr>
+                
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> slice potato.<br>
+        <strong>Step 2:</strong> slice carrot.<br>
+        <strong>Step 3:</strong> slice onion.<br>
+        <strong>Step 4:</strong> add meat.<br>
+</p>
 
-Has three internal links in the table of contents that correctly jump to the specified recipe below.
-Has a list for each recipe.
-Has a table with at least 2 rows for each recipe.
-Has steps described in paragraphs and/or lists.
-Uses at least 2 CSS element selectors.
-Uses at least 1 CSS id or class selector.
+
+
+
+
+    <p><em>Source: <a href="https://www.allrecipes.com">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
