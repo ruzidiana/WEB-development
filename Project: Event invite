@@ -37,6 +37,13 @@
             line-height: 1.5em;
             text-align: center;
         }
+        
+        .photo{
+            width: 200px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border: 6px ridge red;
+        }
         </style>
     </head>
     <body>
@@ -64,7 +71,7 @@
 
 <a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Read more about POOL PARTY
             <p>
-        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
+        <img class ="photo"src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
         <br>
         </p>
             
@@ -106,3 +113,4 @@
 
     </body>
 </html>
+
