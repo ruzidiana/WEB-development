@@ -77,3 +77,58 @@ Kangaroos are the only large animals to use hopping as a means of locomotion. Th
 </html>
 
 
+
+
+
+
+
+
+
+
+        
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+    
+    
+    
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <td> Spagetti</td>
+                <td> pasta </td>
+                <td> 2000tg </td>
+            </tr>
+            
+            <tr> 
+                <td> Cake</td>
+                <td> egg </td>
+                <td> 25tg </td>
+            </tr>
+            
+            <tr> 
+                <td> Soup</td>
+                <td> meat </td>
+                <td> 600tg </td>
+            </tr>
+                
+            </tbody>
+        </table>
+
+    </body>
+</html>
