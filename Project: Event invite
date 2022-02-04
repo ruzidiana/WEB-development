@@ -1,6 +1,108 @@
-Does your project meet these goals?
-Must contain some sort of event details.
-Must use at least 6 different HTML tags.
-Must have at least 3 CSS rules.
-Must use at least 4 different CSS properties.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        h1 {
+            color: rgb(8, 97, 240);
+        }  
+        p {
+            color: rgb(23, 161, 235);
+        }  
+        body {
+            background-color: rgb(252, 248, 179);
+        }  
+        
+        #first {
+            background-color: red;
+        }
+        
+        #second {
+            background-color: silver;
+        } 
+        
+        .text{
+            font-family: fantasy;
+            font-size: 25px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        
+        .menu{
+            font-family: fantasy;
+            font-size: 25px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2 id = "second">To birthday party!</h2>
+        
+        
+        <h4 id = "first">Links for location details</h4>
+        
+        <ol>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">2GIS</a></li>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Google maps</a></li>
+            <li><a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Yandex Maps</a></li>
+        </ol>
 
+<p class = "text">The details:</p>
+        <ul>
+            <li>dress code: black colored dress</li>
+            <li>style: halloween</li>
+            <li>time: 8 pm</li>
+            <li>location: st Blue 74</li>
+        </ul>
+
+
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Read more about POOL PARTY
+            <p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
+        <br>
+        </p>
+            
+        </a>
+        
+        
+        
+        <h1 class = "menu">Party menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Where</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <td> Spagetti</td>
+                <td> 2nd floor</td>
+                <td> 80 </td>
+            </tr>
+            
+            <tr> 
+                <td> Cake</td>
+                <td> 1st floor</td>
+                <td> 70 </td>
+            </tr>
+            
+            <tr> 
+                <td> Coca-cola</td>
+                <td> 2nd floor</td>
+                <td> 50 </td>
+            </tr>
+                
+            </tbody>
+        </table>
+
+    </body>
+</html>
