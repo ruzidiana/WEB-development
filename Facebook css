@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    width:auto;
+    width:initial;
     background-color: #f0f2f5;
 }
 footer{
