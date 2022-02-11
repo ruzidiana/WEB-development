@@ -52,9 +52,9 @@ button{
 }
 
 .f-pws {
-    display:contents;
+    display:inline;
     width: 200px;
-    margin:auto;
+    margin-left: 50px;
     color: #1877f2;
     padding-left: 80px;
     font-family: Arial, Helvetica, sans-serif;
