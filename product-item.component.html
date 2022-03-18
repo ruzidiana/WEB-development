@@ -1,0 +1,24 @@
+<div class="flex">
+  <div class="pics">
+      <button (click)="prev(product.id)" class="prev"><<</button>
+      <img [id]="product.id + '_img'" [src]="product.imgs[0]">
+      <button (click)="next(product.id)" class="next">>></button>
+  </div>
+  <div>
+      <div class="name">
+          Product name:
+          <br>
+          {{product.name}}
+      </div>
+      <div class="description">
+          Description:
+          <br>
+          {{product.description}}
+      </div>
+      <div class="rating">
+          Rating:
+          <br>
+          {{product.rating}}
+      </div>
+  </div>
+</div>

@@ -1,0 +1,65 @@
+h2 {
+  text-align: center;
+}
+.flex-container {
+  width: 50%;
+  margin-left: 10%;
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+
+img {
+  width: 200px;
+  margin-left: 5px;
+}
+.flex-container {
+  font-family:monospace;
+  font-size: large;
+  font-weight: bold;
+}
+.details-button {
+  /* background-color: #abd1fd; */
+  margin: 1%;
+  width: max-content;
+  border: 0;
+  color: white;
+  font-weight: bold;
+  /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+  border-radius: 5px;
+}
+.share-button {
+  background-color: #a079fa;
+  margin: 1%;
+  width: max-content;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 0;
+}
+.prod {
+  /* border: solid 2px black; */
+  background-color: rgb(239, 246, 253);
+  width: 1000px;
+  /* border-color: black; */
+  padding: 20px;
+  padding-left: 7%;
+}
+.button {
+  display: block;
+  width: max-content;
+  height: auto;
+  margin: 1%;
+  background: #abd1fd;
+  text-align: center;
+  border-radius: 1%;
+  color: white;
+  font-weight: bold;
+}
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
